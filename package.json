@@ -1,0 +1,16 @@
+{
+  "name": "publi-click-front",
+  "version": "1.0.0",
+  "description": "frontend de publiclick",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "luis",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  }
+}
